@@ -1,0 +1,1 @@
+This repository contains communities generated based on the technique explained in our paper: "Utilizing Word Embeddings for Grouping Related Tags in Folksonomies". Each folder contains communities and pajek network files generated for each model used to represent tags.
