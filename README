@@ -1,7 +1,8 @@
 This repository contains dataset and communities generated based on the technique explained in our paper: "Utilizing Word Embeddings for Grouping Related Tags in Folksonomies".
 
 - Folders starting with prefix "E_" contains communities and pajek network files generated for each model used to represent tags.
-- Folder Co_occ contains communities of baseline.
+- Co_occ folder contains communities of baseline.
+- manual_communities folder contains communities created by authors.
 
 - dataset folder contains:
 1. sof_tags: tags used in our experiments to find communities
