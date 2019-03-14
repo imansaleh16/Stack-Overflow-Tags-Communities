@@ -1,4 +1,4 @@
-This repository contains dataset and communities generated based on the technique explained in our paper: "Finding Semantic Relationships in Folksonomies", submitted to IEEE/WIC/ACM International Conference on Web Intelligence 2018.
+This repository contains dataset and communities generated based on the technique explained in our paper: "Finding Semantic Relationships in Folksonomies", published in IEEE/WIC/ACM International Conference on Web Intelligence 2018.
 
 - Folders starting with prefix "E_" contains communities and pajek network files generated for each model used to represent tags.
 - Co_occ folder contains communities of baseline.
